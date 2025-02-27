@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PC4fn7woxVXlDpiI66ToJdBN85SQmjn81BwKuChmOG4=",
+  "Source": "SalesApp",
+  "BasePath": "_content/SalesApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
